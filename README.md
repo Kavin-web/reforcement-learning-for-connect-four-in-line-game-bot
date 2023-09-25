@@ -21,7 +21,7 @@ The code was written in Python 2.7. In order to display the game's GUI, we used 
 
 ### Run
 ```
-git clone https://github.com/Alfo5123/Connect4.git
+git clone https://github.com/Kavin-web/reforcement-learning-for-connect-four-in-line-game-bot
 cd Connect4
 python game.py
 ```
